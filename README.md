@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me :
 - 💬 Ask me about: **HTML, CSS , JAVASCRIPT AND REACTJS**
  
-- 📫 How to reach me: **Franciscojavier14ms@gmail.com**
+- 📫 How to reach me: **franciscojavier14ms@gmail.com**
 
 - 🌱 I’m currently learning: **Full Stack JavaScript**
 
