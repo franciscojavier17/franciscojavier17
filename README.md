@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 - 💬 Ask me about: **HTML, CSS, JAVASCRIPT, REACT JS, NODE JS AND SQL**
 - 📫 How to reach me: **franciscojavier14ms@gmail.com**
-- 🌱 I’m currently learning: **Full Stack JavaScript**
+- 🌱 I’m currently learning: **Desarrollo Full Stack JavaScript**
 
 ## 🔨 Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
