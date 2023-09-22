@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://giphy.com/embed/7YjvlYIMRDcYM" alt="Animated Gif" width="300" height="200" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=franciscojavier17)
 
 <div align="center">
 
